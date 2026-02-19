@@ -1,0 +1,16 @@
+{
+    "title": "Documentation",
+    "search": "Rechercher dans la documentation...",
+    "theme": {
+        "light": "Clair",
+        "dark": "Sombre"
+    },
+    "feedback": {
+        "title": "Cette page vous a-t-elle été utile ?",
+        "submit": "Envoyer des commentaires",
+        "success": "Merci pour vos commentaires !"
+    },
+    "toc": "Sur cette page",
+    "edit_on_github": "Modifier cette page sur GitHub",
+    "version": "Version"
+}

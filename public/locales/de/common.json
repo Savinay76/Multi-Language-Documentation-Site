@@ -1,0 +1,16 @@
+{
+    "title": "Dokumentation",
+    "search": "Dokumentation durchsuchen...",
+    "theme": {
+        "light": "Hell",
+        "dark": "Dunkel"
+    },
+    "feedback": {
+        "title": "War diese Seite hilfreich?",
+        "submit": "Feedback senden",
+        "success": "Danke für Ihr Feedback!"
+    },
+    "toc": "Auf dieser Seite",
+    "edit_on_github": "Diese Seite auf GitHub bearbeiten",
+    "version": "Version"
+}
