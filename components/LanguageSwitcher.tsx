@@ -29,3 +29,4 @@ export default function LanguageSwitcher({ currentLocale }: { currentLocale: str
     </div>
   )
 }
+ 
