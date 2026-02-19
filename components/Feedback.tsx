@@ -48,3 +48,4 @@ export default function Feedback({ dict }: { dict: FeedbackDict }) {
         </div>
     )
 }
+ 
