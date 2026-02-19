@@ -38,3 +38,4 @@ export default function Sidebar({ version, locale }: { version: string, locale: 
     </div>
   )
 }
+ 
