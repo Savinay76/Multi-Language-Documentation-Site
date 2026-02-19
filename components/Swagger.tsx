@@ -8,3 +8,4 @@ const SwaggerUI = dynamic(() => import("swagger-ui-react"), { ssr: false }) as R
 export default function Swagger({ specUrl }: { specUrl: string }) {
     return <SwaggerUI url={specUrl} />
 }
+ 
