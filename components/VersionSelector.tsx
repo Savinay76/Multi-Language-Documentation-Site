@@ -37,3 +37,4 @@ export default function VersionSelector({ currentVersion, currentLocale }: { cur
         </div>
     )
 }
+ 
